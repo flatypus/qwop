@@ -1,0 +1,13 @@
+[project]
+name = "qwop-tas"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "opencv-python>=4.12.0.88",
+    "pillow>=11.3.0",
+    "selenium>=4.34.2",
+    "tessdata>=1.0.0",
+    "tesserocr>=2.8.0",
+]
